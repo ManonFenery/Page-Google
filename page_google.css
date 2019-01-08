@@ -74,6 +74,11 @@ li a:hover {
     box-shadow: 0 4px 4px 0 rgba(0,0,0,0.16), 0 0 0 2px rgba(0,0,0,0.08);
 }
 
+#search, select, textarea { 
+font-size: 120%; 
+}
+
+
 img {
     height: 92px;
     width: 272px;
